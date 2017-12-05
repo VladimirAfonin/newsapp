@@ -1,0 +1,46 @@
+[2017-11-14 10:30:46] text of error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'umalabs.users' doesn't exist | File: /Applications/MAMP/htdocs/fw.locc/vendor/fw/libs/rb.php | String: 720
+============ next ->
+[2017-12-05 07:07:08] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:07:20] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:08:19] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:09:10] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:14:13] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:14:57] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:15:00] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:15:43] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:15:44] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:15:59] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:16:02] text of error: Undefined index: action | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 59
+============ next ->
+[2017-12-05 07:16:06] text of error: <p>view not found <b>/Applications/MAMP/htdocs/news.loc/app/views/admin/News/index.php</b></p> | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/base/View.php | String: 72
+============ next ->
+[2017-12-05 07:19:09] text of error: Method not found | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/Router.php | String: 99
+============ next ->
+[2017-12-05 07:19:34] text of error: Undefined variable: user | File: /Applications/MAMP/htdocs/news.loc/app/views/admin/News/news.php | String: 21
+============ next ->
+[2017-12-05 07:19:37] text of error: Undefined variable: user | File: /Applications/MAMP/htdocs/news.loc/app/views/admin/News/news.php | String: 21
+============ next ->
+[2017-12-05 07:19:59] text of error: <p>view not found <b>/Applications/MAMP/htdocs/news.loc/app/views/admin/News/index.php</b></p> | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/base/View.php | String: 72
+============ next ->
+[2017-12-05 07:20:03] text of error: <p>view not found <b>/Applications/MAMP/htdocs/news.loc/app/views/admin/News/index.php</b></p> | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/base/View.php | String: 72
+============ next ->
+[2017-12-05 07:20:18] text of error: Undefined variable: user | File: /Applications/MAMP/htdocs/news.loc/app/views/admin/News/index.php | String: 21
+============ next ->
+[2017-12-05 07:20:19] text of error: Undefined variable: user | File: /Applications/MAMP/htdocs/news.loc/app/views/admin/News/index.php | String: 21
+============ next ->
+[2017-12-05 07:20:59] text of error: <p>view not found <b>/Applications/MAMP/htdocs/news.loc/app/views/admin/News/add.php</b></p> | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/core/base/View.php | String: 72
+============ next ->
+[2017-12-05 07:33:27] text of error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text' in 'field list' | File: /Applications/MAMP/htdocs/news.loc/vendor/fw/libs/rb.php | String: 720
+============ next ->
+[2017-12-05 07:41:02] text of error: Undefined variable: id | File: /Applications/MAMP/htdocs/news.loc/app/controllers/admin/NewsController.php | String: 109
+============ next ->

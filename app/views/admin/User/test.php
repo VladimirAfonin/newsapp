@@ -1,0 +1,1 @@
+<?php //\fw\libs\Helper::redirect('/admin') ?>
